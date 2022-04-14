@@ -1,6 +1,6 @@
 <?php
 
-namespace Ctessier\NovaAdvancedImageField;
+namespace mGuariero\NovaImageField;
 
 use Illuminate\Http\UploadedFile;
 use Intervention\Image\Facades\Image;

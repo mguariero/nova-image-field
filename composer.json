@@ -20,13 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Ctessier\\NovaAdvancedImageField\\": "src/"
+            "mGuariero\\NovaImageField\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Ctessier\\NovaAdvancedImageField\\FieldServiceProvider"
+                "mGuariero\\NovaImageField\\FieldServiceProvider"
             ]
         }
     },
