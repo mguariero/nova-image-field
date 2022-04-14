@@ -6,7 +6,7 @@ use Illuminate\Support\ServiceProvider;
 use Laravel\Nova\Events\ServingNova;
 use Laravel\Nova\Nova;
 
-class FieldServiceProvider extends ServiceProvider
+class ImageFieldServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap any application services.

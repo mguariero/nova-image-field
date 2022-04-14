@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\Storage;
 use Laravel\Nova\Fields\Image;
 use Laravel\Nova\Http\Requests\NovaRequest;
 
-class AdvancedImage extends Image
+class ImageField extends Image
 {
     use TransformableImage;
 

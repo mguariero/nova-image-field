@@ -26,7 +26,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "mGuariero\\NovaImageField\\FieldServiceProvider"
+                "mGuariero\\NovaImageField\\ImageFieldServiceProvider"
             ]
         }
     },
